@@ -1,0 +1,2 @@
+# Some-Famous-Equations
+This notebook is intended to test out the Jupyter Command Cheatsheet.   It's also a playing ground for trying out different equations, as well as my attempts to teach myself mathematics.  To view the source for the equation, select the cell you want and double click.  Most of the markups and examples are gleaned from elsewhere. I intend to add more equations to these plus explanations for each.
